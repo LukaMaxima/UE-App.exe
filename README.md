@@ -2,7 +2,7 @@
 
 ## Scope
 
-**1. This is a `.exe` version of the original [Python code](https://github.com/LukaMaxima/UE_App), compiled to work on Windows with little to no install.**
+1. This is a `.exe` version of the original [Python code](https://github.com/LukaMaxima/UE_App), compiled to work on Windows with little to no install.
 
 2. The project is an attempt to automate some of the more time-consuming and (if you’re anything like me) prone-to-human-error aspects of playing Ultimate Europe using Python.
 
