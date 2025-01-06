@@ -31,11 +31,12 @@
 
 ### Install
 
-7. Extract (unzip) the downloaded `.zip` file where you want it. You're ready to go
+8. Install Firefox.
+9. Extract (unzip) the downloaded `.zip` file where you want it. You're ready to go
 
 -----
 
 ### Notes on use
 
-8. You will need to scan your turns with the dedicated scanner.exe. The MDS Import function in the app doesn't currently work.
-9. Windows Defender may block the apps running on the first time. You can resolve this by clicking `More Info` > `Run Anyway`
+10. You will need to scan your turns with the dedicated scanner.exe. The MDS Import function in the app doesn't currently work.
+11. Windows Defender may block the apps running on the first time. You can resolve this by clicking `More Info` > `Run Anyway`
