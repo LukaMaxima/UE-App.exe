@@ -11,7 +11,7 @@
 ### Requirements
 
 - There is no install for this other than you need Firefox for the app to work.
-- Python, Java, Chrome and related Python libraries are **NOT** required for this version of the app.
+- Additional dependencies such as Python, Java, Chrome and any related Python libraries are **NOT** required for this version of the app.
 
 -----
 
