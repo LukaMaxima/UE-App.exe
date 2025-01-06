@@ -1,5 +1,17 @@
 # UE-App.exe
 
+Scope
+
+    This is an attempt to automate some of the more time-consuming and (if you’re anything like me) prone-to-human-error aspects of playing Ultimate Europe using Python.
+
+    Benefits include:
+        Automated PV calculations across First, Reserve, and Youth teams.
+        Easy team selections without player codes using auto-filtering dropdowns to select your teams.
+        Automated MDS submissions for all teams, including automated code inputs.
+        Save data locally to submit your MDS later, allowing rapid resubmissions.
+        Alerts if a player has a low or N/A PV for the chosen position.
+        Automated scouting (currently limited to country).
+
 -----
 
 ### Download
